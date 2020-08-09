@@ -1,0 +1,1 @@
+<h1>Blog on Django and React</h1>
